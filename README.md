@@ -1,1 +1,1 @@
-<iframe src="https://drive.google.com/file/d/1boY_vbqkF1U3zd2d9n-ZQbDgfA2kgFxq/preview" width="640" height="480"></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
